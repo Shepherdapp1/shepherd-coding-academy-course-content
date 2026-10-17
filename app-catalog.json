@@ -11,6 +11,17 @@
       "sha256": "81ed3ef9059732daad6f820b754c34ecac80b47962ffe950cb2578c044f4e237",
       "size_bytes": 2879,
       "module_id": "programming-languages"
+    },
+    {
+      "course_id": "shepherd.cpp-levels-01-05",
+      "version": "0.1.0",
+      "title": "C++ Foundations — Levels 1–5",
+      "summary": "C++ foundation course chunk covering levels 1–5.",
+      "language": "C++",
+      "module_id": "programming-languages",
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-01-05-0.1.0.zip",
+      "sha256": "632ec453e2ab57f76a7d6b5442b50b42e8d165ea9ecf4ea09887d5e96f271a4e",
+      "size_bytes": 110186
     }
   ]
 }

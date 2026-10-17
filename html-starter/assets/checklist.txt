@@ -1,3 +1,0 @@
-Sample checklist
-- One heading
-- One paragraph

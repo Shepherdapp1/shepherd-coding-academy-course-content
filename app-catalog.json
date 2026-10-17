@@ -9,7 +9,8 @@
       "language": "HTML",
       "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.html-starter-0.1.0.zip",
       "sha256": "81ed3ef9059732daad6f820b754c34ecac80b47962ffe950cb2578c044f4e237",
-      "size_bytes": 2879
+      "size_bytes": 2879,
+      "module_id": "programming-languages"
     }
   ]
 }

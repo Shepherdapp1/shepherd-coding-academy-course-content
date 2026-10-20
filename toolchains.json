@@ -1,0 +1,19 @@
+{
+  "toolchain_schema_version": 1,
+  "packs": [
+    {
+      "pack_id": "cpp-llvm-mingw",
+      "version": "20261006",
+      "display_name": "C++ compiler (Clang/LLVM + CMake + Ninja)",
+      "platforms": {
+        "windows-x64": {
+          "url": "https://github.com/Shepherdapp1/shepherd-coding-academy/releases/download/toolchains-1/cpp-llvm-mingw-20261006-windows-x64.zip",
+          "sha256": "e27a0b0db54f0a556f4ce03be69aff1a59acbbd27b419fa7ffbd57727e221eed",
+          "size_bytes": 249950863
+        }
+      },
+      "license": "LLVM Apache-2.0 WITH LLVM-exception; CMake BSD-3-Clause; Ninja Apache-2.0",
+      "release_tag": "toolchains-1"
+    }
+  ]
+}

@@ -1,17 +1,4 @@
-{
-  "catalog_version": 1,
-  "courses": [
-    {
-      "course_id": "shepherd.html-starter",
-      "version": "0.1.0",
-      "title": "HTML: a tiny first page",
-      "summary": "A small format-validation sample, not a complete HTML course.",
-      "language": "HTML",
-      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.html-starter-0.1.0.zip",
-      "sha256": "81ed3ef9059732daad6f820b754c34ecac80b47962ffe950cb2578c044f4e237",
-      "size_bytes": 2879,
-      "module_id": "programming-languages"
-    },
+
     {
       "course_id": "shepherd.cpp-levels-01-05",
       "version": "0.1.1",

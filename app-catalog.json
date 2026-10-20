@@ -1,4 +1,6 @@
-
+{
+  "catalog_version": 1,
+  "courses": [
     {
       "course_id": "shepherd.cpp-levels-01-05",
       "version": "0.1.1",
@@ -10,5 +12,5 @@
       "sha256": "8d55564a6c2d1babc54ea7e27959d0b8174dc07d9761b2622b2cea2a53861330",
       "size_bytes": 115451
     }
-  
-
+  ]
+}

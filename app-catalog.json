@@ -9,12 +9,11 @@
       "language": "C++",
       "module_id": "programming-languages",
       "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-01-05-0.1.3.zip",
-      "sha256": "38ba78fea3f6d2c63f1be651c2de3bd9144f4ae86638864dfb44374e0710f25e",
-      "size_bytes": 116016,
+      "sha256": "95b6240282f8f88b6711f998f6c34d04619344e2857179581b9cf40e950c7a4a",
+      "size_bytes": 116390,
       "requires_toolchains": [
         "cpp-llvm-mingw"
       ]
     }
   ]
 }
- 

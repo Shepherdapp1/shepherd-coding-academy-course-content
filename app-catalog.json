@@ -3,14 +3,14 @@
   "courses": [
     {
       "course_id": "shepherd.cpp-levels-01-05",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "title": "C++ Foundations — Levels 1–5",
       "summary": "C++ foundation course chunk covering levels 1–5.",
       "language": "C++",
       "module_id": "programming-languages",
-      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-01-05-0.1.1.zip",
-      "sha256": "8d55564a6c2d1babc54ea7e27959d0b8174dc07d9761b2622b2cea2a53861330",
-      "size_bytes": 115451,
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-01-05-0.1.2.zip",
+      "sha256": "bc6051879a102cd3116739196210c1a3c8c40c086c5a29ece756de14630e4c51",
+      "size_bytes": 115716,
       "requires_toolchains": ["cpp-llvm-mingw"]
     }
   ]

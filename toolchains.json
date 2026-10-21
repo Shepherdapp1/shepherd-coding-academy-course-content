@@ -7,8 +7,8 @@
       "display_name": "C++ compiler (Clang/LLVM + CMake + Ninja)",
       "platforms": {
         "windows-x64": {
-          "url": "https://github.com/Shepherdapp1/shepherd-coding-academy/releases/download/toolchains-1/cpp-llvm-mingw-20261006-windows-x64.zip",
-          "sha256": "e27a0b0db54f0a556f4ce03be69aff1a59acbbd27b419fa7ffbd57727e221eed",
+          "url": "https://github.com/Shepherdapp1/shepherd-coding-academy-releases/releases/download/toolchains-1/cpp-llvm-mingw-20261006-windows-x64.zip",
+          "sha256": "0a8f836a6e9ab2f139b9a70442ddc282d9f769cfafa3f6af9b6d4fd8efe674f8",
           "size_bytes": 249950863
         }
       },

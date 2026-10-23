@@ -70,6 +70,20 @@
       "requires_toolchains": [
         "cpp-llvm-mingw"
       ]
+    },
+    {
+      "course_id": "shepherd.cpp-levels-16-18",
+      "version": "0.1.4",
+      "title": "C++ Algorithms and Concurrency — Levels 16–18",
+      "summary": "24 lessons on data structures and algorithms, threads, and how to measure performance instead of guessing.",
+      "language": "C++",
+      "module_id": "programming-languages",
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-16-18-0.1.4.zip",
+      "sha256": "a3ddcb75add70c76f87dd821b1d2b35a98b8fd167a9c28c3467c9b058f6def95",
+      "size_bytes": 85353,
+      "requires_toolchains": [
+        "cpp-llvm-mingw"
+      ]
     }
   ]
 }

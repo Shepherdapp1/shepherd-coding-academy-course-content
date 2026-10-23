@@ -28,9 +28,7 @@
       "requires_toolchains": [
         "cpp-llvm-mingw"
       ]
-    }
-  ]
-},
+    },
     {
       "course_id": "shepherd.cpp-levels-09-12",
       "version": "0.1.0",
@@ -45,3 +43,5 @@
         "cpp-llvm-mingw"
       ]
     }
+  ]
+}

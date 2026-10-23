@@ -31,14 +31,14 @@
     },
     {
       "course_id": "shepherd.cpp-levels-09-12",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "title": "C++ Templates — Levels 9",
-      "summary": "Templates: one algorithm for many types, from the first function template to C++20 concepts.",
+      "summary": "Templates: one algorithm for many types, from the first function template to C++17 constraints.",
       "language": "C++",
       "module_id": "programming-languages",
-      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-09-12-0.1.0.zip",
-      "sha256": "cd82f05563559fd5c095c105327a785d9adafb440c6081f94b7686404cc64ff4",
-      "size_bytes": 18630,
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-09-12-0.1.1.zip",
+      "sha256": "e3238d9e060f062ca5c6a662a68ad375b0d8f81446affa970bc1be9f93d59894",
+      "size_bytes": 19490,
       "requires_toolchains": [
         "cpp-llvm-mingw"
       ]

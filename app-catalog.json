@@ -84,6 +84,20 @@
       "requires_toolchains": [
         "cpp-llvm-mingw"
       ]
+    },
+    {
+      "course_id": "shepherd.cpp-levels-19-20",
+      "version": "0.1.5",
+      "title": "C++ Design and Mastery — Levels 19–20",
+      "summary": "16 lessons on designing larger programs and a four-lesson capstone that builds one program end to end.",
+      "language": "C++",
+      "module_id": "programming-languages",
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-19-20-0.1.5.zip",
+      "sha256": "9702d4cd4645db4a2af236cc288bcbfddf626c435dd953692e4b2a4407625bd8",
+      "size_bytes": 61323,
+      "requires_toolchains": [
+        "cpp-llvm-mingw"
+      ]
     }
   ]
 }

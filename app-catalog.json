@@ -126,6 +126,20 @@
       "requires_toolchains": [
         "cpp-llvm-mingw"
       ]
+    },
+    {
+      "course_id": "shepherd.cpp-levels-21-23",
+      "version": "0.1.8",
+      "title": "C++ Memory Model and Object Lifetime — Levels 21–23",
+      "summary": "16 lessons on what the standard actually promises: happens-before and data races, memory orders, undefined behaviour and how to detect it, the five regions of a program, stack frames, static initialisation order, object sizing, construction and destruction, temporaries and storage reuse.",
+      "language": "C++",
+      "module_id": "programming-languages",
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-21-23-0.1.8.zip",
+      "sha256": "387e1e2187c8b37179f2bb37adac6196bb94099a601e067aea4f53ea5b8970bb",
+      "size_bytes": 44703,
+      "requires_toolchains": [
+        "cpp-llvm-mingw"
+      ]
     }
   ]
 }

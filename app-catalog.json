@@ -112,6 +112,20 @@
       "requires_toolchains": [
         "cpp-llvm-mingw"
       ]
+    },
+    {
+      "course_id": "shepherd.cpp-revision-02",
+      "version": "0.1.7",
+      "title": "C++ Revision — Data Structures, Algorithms and Memory",
+      "summary": "24 revision lessons on the structures and algorithms the levels build on: linked lists, stacks and ring buffers, binary search trees, AVL rotations, heaps, tries, graphs, hashing, complexity, recursion, dynamic programming, sorting, allocators, std::pmr, perfect forwarding and a thread pool.",
+      "language": "C++",
+      "module_id": "programming-languages",
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-revision-02-0.1.7.zip",
+      "sha256": "f4a502306ff0c41f9eaafc8fa29b8b1c65beefa8855384dd8766c97f61f7010e",
+      "size_bytes": 75200,
+      "requires_toolchains": [
+        "cpp-llvm-mingw"
+      ]
     }
   ]
 }

@@ -193,7 +193,23 @@
       "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-33-35-0.1.12.zip",
       "sha256": "086989d09f27205b1c52919c9f0daeec6175b05aa4f38faca6ef30ccd93501fd",
       "size_bytes": 213200,
-      "requires_toolchains": ["cpp-llvm-mingw"]
+      "requires_toolchains": [
+        "cpp-llvm-mingw"
+      ]
+    },
+    {
+      "course_id": "shepherd.cpp-levels-36-38",
+      "version": "0.1.13",
+      "title": "C++ Testing, Performance and Threads — Levels 36–38",
+      "summary": "24 lessons on proving a program works and making it fast: what a test is, unit, integration and system tests, test doubles that replace the clock and the disk, what a test framework does behind its macros, fixtures and fresh state, table-driven boundary tests and how to make code testable at all, then performance engineering by measurement rather than guesswork, optimisation levels, counting calls and counting work, reading a profiler, counting allocations, cache lines and traversal order, data layout, branch prediction, vectorisation and false sharing, and finally threads: the shared-memory rule, locks and the size of a critical section, thread pools and work queues, condition variables, atomics and memory order, lock-free progress guarantees, parallel algorithms and the limits of scaling.",
+      "language": "C++",
+      "module_id": "programming-languages",
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-36-38-0.1.13.zip",
+      "sha256": "e85d45a5e95247fc7d0541602f9bb30fc75827e6572b564e6e53928c0b127acd",
+      "size_bytes": 198719,
+      "requires_toolchains": [
+        "cpp-llvm-mingw"
+      ]
     }
   ]
 }

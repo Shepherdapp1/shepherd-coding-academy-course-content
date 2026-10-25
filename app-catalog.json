@@ -224,6 +224,20 @@
       "requires_toolchains": [
         "cpp-llvm-mingw"
       ]
+    },
+    {
+      "course_id": "shepherd.cpp-levels-42-44",
+      "version": "0.1.15",
+      "title": "C++ Games, Embedded Systems and Operating Systems — Levels 42-44",
+      "summary": "Eight lessons on games, eight on embedded C++ and eight on operating systems: fixed-timestep loops, input queues, physics, box collision and response, entities and components; registers, interrupts, deadlines, fixed point, memory maps, schedulers, ring buffers and pools; and system calls, processes, page tables, IPC, files and kernel space. Every card you can run, runs; what needs a window, a chip or kernel privilege is text beside a model that prints the same numbers.",
+      "language": "C++",
+      "module_id": "programming-languages",
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-42-44-0.1.15.zip",
+      "sha256": "c03a5ba0513fedd39ec02632afcef7b1074c14108a90f87d50d9034eb88561eb",
+      "size_bytes": 277501,
+      "requires_toolchains": [
+        "cpp-llvm-mingw"
+      ]
     }
   ]
 }

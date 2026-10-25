@@ -140,6 +140,20 @@
       "requires_toolchains": [
         "cpp-llvm-mingw"
       ]
+    },
+    {
+      "course_id": "shepherd.cpp-levels-24-26",
+      "version": "0.1.9",
+      "title": "C++ Preprocessor, Modules and Namespaces — Levels 24–26",
+      "summary": "24 lessons on the preprocessor, modules and namespaces: #include, #define and conditional compilation, header guards, function-like and variadic macros with #, ## and __VA_OPT__, why modules exist, module interfaces, partitions, import and export, the global module fragment, how to compile a module, and every namespace form including anonymous, inline and argument-dependent lookup.",
+      "language": "C++",
+      "module_id": "programming-languages",
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-24-26-0.1.9.zip",
+      "sha256": "ddaa6ece1dc14746a6365fcfb5b4b50bd675a3afbf055159c290083991f5e966",
+      "size_bytes": 23465,
+      "requires_toolchains": [
+        "cpp-llvm-mingw"
+      ]
     }
   ]
 }

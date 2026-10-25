@@ -45,14 +45,14 @@
     },
     {
       "course_id": "shepherd.cpp-levels-10-12",
-      "version": "0.1.2",
+      "version": "0.1.20",
       "title": "C++ Advanced — Levels 10–12",
-      "summary": "24 lessons on the standard library, move semantics and exceptions, continuing from Templates.",
+      "summary": "25 lessons on the standard library, move semantics and exceptions. Version 0.1.20 adds the three containers the usual tour leaves out: std::forward_list, std::unordered_multiset and std::unordered_multimap, and what a container adapter is.",
       "language": "C++",
       "module_id": "programming-languages",
-      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-10-12-0.1.2.zip",
-      "sha256": "d7c30050892986a3da4cdac4b87d3b94a96d1cfe91d9ee4f39af0e94a66f53ca",
-      "size_bytes": 77654,
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-10-12-0.1.20.zip",
+      "sha256": "8814790a4c1772dfd355745fb010efa3080a2e0eb5b2c2489a0995cdf2002e54",
+      "size_bytes": 23980,
       "requires_toolchains": [
         "cpp-llvm-mingw"
       ]

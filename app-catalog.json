@@ -154,6 +154,20 @@
       "requires_toolchains": [
         "cpp-llvm-mingw"
       ]
+    },
+    {
+      "course_id": "shepherd.cpp-levels-27-29",
+      "version": "0.1.10",
+      "title": "C++ Advanced STL, Ranges and Utilities — Levels 27–29",
+      "summary": "24 lessons on the containers and library utilities that finish the standard library: vector size and capacity, iterator invalidation, the erase-remove idiom, choosing a container by complexity, map and set, std::array, ranges and views including filter, transform, take, drop, split and pipelines, then variant, optional with monadic chaining, any, string_view, span and std::expected.",
+      "language": "C++",
+      "module_id": "programming-languages",
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-27-29-0.1.10.zip",
+      "sha256": "68ac7453026ed2bab2bf000443578bf625bf81b7e0973b0268cb326cecf2cebe",
+      "size_bytes": 23873,
+      "requires_toolchains": [
+        "cpp-llvm-mingw"
+      ]
     }
   ]
 }

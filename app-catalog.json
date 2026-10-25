@@ -184,4 +184,16 @@
       ]
     }
   ]
-}
+},
+    {
+      "course_id": "shepherd.cpp-levels-33-35",
+      "version": "0.1.12",
+      "title": "C++ Build Systems, Linking and Architecture — Levels 33–35",
+      "summary": "24 lessons on how a program is made and how it is structured: the preprocessor, compiler, assembler and linker behind one command, reading a diagnostic, optimisation levels from O0 to O3 and the defines a build passes in, Make and its dependency graph, Ninja and generated build files, CMake targets, libraries, install rules and tests, then linking from symbol resolution through the one definition rule, static and shared libraries, reading the four link errors and linking an external library, and finally architecture: SOLID, DRY, KISS and YAGNI, factories and builders, adapters and decorators, command, state, visitor, template method, prototype and singleton, model-view-controller and plugin boundaries.",
+      "language": "C++",
+      "module_id": "programming-languages",
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-33-35-0.1.12.zip",
+      "sha256": "086989d09f27205b1c52919c9f0daeec6175b05aa4f38faca6ef30ccd93501fd",
+      "size_bytes": 213200,
+      "requires_toolchains": ["cpp-llvm-mingw"]
+    }

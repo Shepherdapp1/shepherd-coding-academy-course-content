@@ -252,6 +252,20 @@
       "requires_toolchains": [
         "cpp-llvm-mingw"
       ]
+    },
+    {
+      "course_id": "shepherd.cpp-levels-48-50",
+      "version": "0.1.17",
+      "title": "C++ Templates, Compilers and the Standard — Levels 48–50",
+      "summary": "Levels 48 to 50 close the course: advanced templates from instantiation to diagnostics, compiler internals built card by card - lexer, parser, AST, IR, optimisation passes, code generation and the ABI - and the standard itself, from feature-test macros and deprecation to the release train that ends at C++26.",
+      "language": "C++",
+      "module_id": "programming-languages",
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-48-50-0.1.17.zip",
+      "sha256": "6484b2a476adbab71e97770c23f1c25c3dc7ca88bf696a6142b3b4b75c7fa8a4",
+      "size_bytes": 349798,
+      "requires_toolchains": [
+        "cpp-llvm-mingw"
+      ]
     }
   ]
 }

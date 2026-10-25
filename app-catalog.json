@@ -238,6 +238,20 @@
       "requires_toolchains": [
         "cpp-llvm-mingw"
       ]
+    },
+    {
+      "course_id": "shepherd.cpp-levels-45-47",
+      "version": "0.1.16",
+      "title": "C++ Linux, Windows and Security — Levels 45-47",
+      "summary": "Eight lessons on Linux systems programming, eight on Windows and eight on security. File descriptors, fork and copy-on-write, exec and argv, pipes and the framing they lack, signals and async-signal safety, mmap, processes against threads, and a shell in miniature; then handles, kernel objects and reference counts, the registry, services in session zero, Winsock, the wide-character API and surrogate pairs, COM, and an abstraction over both platforms; then threat modelling, buffer overruns, integer overflow, secure memory that is not optimised away, hashing, constant-time comparison, randomness, and the hardening layers from ASLR to code signing. Every mechanism runs as portable C++; the POSIX and Win32 calls it stands for are shown beside it.",
+      "language": "C++",
+      "module_id": "programming-languages",
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-45-47-0.1.16.zip",
+      "sha256": "010e3aece043a3b829a55afaa107e86ef27da87d79bd25edf62c51d29ec690ad",
+      "size_bytes": 294267,
+      "requires_toolchains": [
+        "cpp-llvm-mingw"
+      ]
     }
   ]
 }

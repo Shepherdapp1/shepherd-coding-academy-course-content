@@ -168,6 +168,20 @@
       "requires_toolchains": [
         "cpp-llvm-mingw"
       ]
+    },
+    {
+      "course_id": "shepherd.cpp-levels-30-32",
+      "version": "0.1.11",
+      "title": "C++ Time, Randomness, Regex and Debugging — Levels 30–32",
+      "summary": "24 lessons on the parts of C++ that touch the real world: chrono durations, clocks, time points and the C++20 calendar, time zones against fixed offsets, formatting a date, then random engines, distributions instead of modulo and how to seed them, then std::regex from regex_match through capture groups, regex_replace and sregex_iterator, and finally debugging: assert and static_assert, reading a call stack and stepping, breakpoints and watch expressions, hunting leaks and use-after-free, and the sanitizers and debuggers that find them.",
+      "language": "C++",
+      "module_id": "programming-languages",
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-30-32-0.1.11.zip",
+      "sha256": "4b2bca75977ec7892a9531ccf3a32ff707ee2e4cf462322e08da16d46a5e2c70",
+      "size_bytes": 24973,
+      "requires_toolchains": [
+        "cpp-llvm-mingw"
+      ]
     }
   ]
 }

@@ -185,14 +185,14 @@
     },
     {
       "course_id": "shepherd.cpp-levels-33-35",
-      "version": "0.1.12",
+      "version": "0.1.24",
       "title": "C++ Build Systems, Linking and Architecture — Levels 33–35",
-      "summary": "24 lessons on how a program is made and how it is structured: the preprocessor, compiler, assembler and linker behind one command, reading a diagnostic, optimisation levels from O0 to O3 and the defines a build passes in, Make and its dependency graph, Ninja and generated build files, CMake targets, libraries, install rules and tests, then linking from symbol resolution through the one definition rule, static and shared libraries, reading the four link errors and linking an external library, and finally architecture: SOLID, DRY, KISS and YAGNI, factories and builders, adapters and decorators, command, state, visitor, template method, prototype and singleton, model-view-controller and plugin boundaries.",
+      "summary": "26 lessons on how a program is made and how it is structured: the four stages behind one compiler command, optimisation levels and build defines, Make, Ninja and CMake, then linking from symbols through static and shared libraries, and finally design principles, the classic patterns and architecture. Version 0.1.24 adds MSBuild's properties, items and targets, and names the Abstract Factory pattern.",
       "language": "C++",
       "module_id": "programming-languages",
-      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-33-35-0.1.12.zip",
-      "sha256": "086989d09f27205b1c52919c9f0daeec6175b05aa4f38faca6ef30ccd93501fd",
-      "size_bytes": 213200,
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-33-35-0.1.24.zip",
+      "sha256": "a36b1ec58360ad415a19c848a54ca31feeb8b321c65ffba94bf6180d52672f7b",
+      "size_bytes": 216737,
       "requires_toolchains": [
         "cpp-llvm-mingw"
       ]

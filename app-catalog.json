@@ -266,6 +266,20 @@
       "requires_toolchains": [
         "cpp-llvm-mingw"
       ]
+    },
+    {
+      "course_id": "shepherd.cpp-levels-51-53",
+      "version": "0.1.18",
+      "title": "C++ Professional Practice, Expert Techniques and Coroutines — Levels 51–53",
+      "summary": "",
+      "language": "C++",
+      "module_id": "programming-languages",
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-51-53-0.1.18.zip",
+      "sha256": "58245ca17af003a62401a457093563154e38bd259825417877a57ebd4780ad2f",
+      "size_bytes": 432311,
+      "requires_toolchains": [
+        "cpp-llvm-mingw"
+      ]
     }
   ]
 }

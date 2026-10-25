@@ -73,14 +73,14 @@
     },
     {
       "course_id": "shepherd.cpp-levels-16-18",
-      "version": "0.1.4",
+      "version": "0.1.21",
       "title": "C++ Algorithms and Concurrency — Levels 16–18",
-      "summary": "24 lessons on data structures and algorithms, threads, and how to measure performance instead of guessing.",
+      "summary": "26 lessons on data structures, concurrency and performance. Version 0.1.21 adds the doubly linked list and the space cost of its second pointer, std::recursive_mutex, and std::packaged_task.",
       "language": "C++",
       "module_id": "programming-languages",
-      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-16-18-0.1.4.zip",
-      "sha256": "a3ddcb75add70c76f87dd821b1d2b35a98b8fd167a9c28c3467c9b058f6def95",
-      "size_bytes": 85353,
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-16-18-0.1.21.zip",
+      "sha256": "d6c407c0012ed63b1d1ffb5a2d29ae7bc9f028447f47e7530c2123278b1f3d13",
+      "size_bytes": 27982,
       "requires_toolchains": [
         "cpp-llvm-mingw"
       ]

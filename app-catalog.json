@@ -210,6 +210,20 @@
       "requires_toolchains": [
         "cpp-llvm-mingw"
       ]
+    },
+    {
+      "course_id": "shepherd.cpp-levels-39-41",
+      "version": "0.1.14",
+      "title": "C++ Networking, Databases and GUIs — Levels 39–41",
+      "summary": "24 lessons on the three levels that take a program outside its own process: networking, databases and graphical interfaces. Networking begins with addresses, ports and byte order, then a TCP server in five calls and a client that talks to it, then UDP and what a stream actually promises, then HTTP as text on the wire and the parsers a framework hides, then names and getaddrinfo, then serving many clients with a thread each and where that stops, then framing a message out of a stream, and finally Asio, gRPC, queues and timeouts. Database programming covers tables and queries, prepared statements and injection, transactions and rollback, the N+1 problem and counted round trips, connection pools that leak, indexes and their write cost, normalisation, and choosing an engine. GUI development covers the event loop and hit testing, signals and slots, layouts computed rather than written, model and view, keeping logic out of widgets, long work and thread affinity, retained versus immediate mode, and the six behaviours a screenshot cannot show.",
+      "language": "C++",
+      "module_id": "programming-languages",
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-39-41-0.1.14.zip",
+      "sha256": "369a9fa4553b87b5a05e4e6f065997512304be2111ae19c6bcda7aca5f1a5ad4",
+      "size_bytes": 196103,
+      "requires_toolchains": [
+        "cpp-llvm-mingw"
+      ]
     }
   ]
 }

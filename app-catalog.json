@@ -280,6 +280,20 @@
       "requires_toolchains": [
         "cpp-llvm-mingw"
       ]
+    },
+    {
+      "course_id": "shepherd.cpp-levels-54-55",
+      "version": "0.1.19",
+      "title": "C++ Library Design and Real Projects — Levels 54–55",
+      "summary": "The last two levels: designing and shipping a C++ library — header-only, static and shared, ABI stability, versioning and packaging — then six real programs built end to end: a calculator, a ring-buffer logger, a thread pool, a binary file format, a command-line tool and a test harness.",
+      "language": "C++",
+      "module_id": "programming-languages",
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-54-55-0.1.19.zip",
+      "sha256": "cbab1e3ff1033886ce6b7faa7185b5decfdb06bf739e646dfa2b3f546461d419",
+      "size_bytes": 402129,
+      "requires_toolchains": [
+        "cpp-llvm-mingw"
+      ]
     }
   ]
 }

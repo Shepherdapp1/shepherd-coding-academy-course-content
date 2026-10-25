@@ -117,7 +117,7 @@
       "course_id": "shepherd.cpp-revision-02",
       "version": "0.1.7",
       "title": "C++ Revision — Data Structures, Algorithms and Memory",
-      "summary": "24 revision lessons on the structures and algorithms the levels build on: linked lists, stacks and ring buffers, binary search trees, AVL rotations, heaps, tries, graphs, hashing, complexity, recursion, dynamic programming, sorting, allocators, std::pmr, perfect forwarding and a thread pool.",
+      "summary": "25 revision lessons on the structures and algorithms the levels build on: linked lists, stacks and ring buffers, binary search trees, AVL rotations, heaps, tries, graphs, hashing, complexity, recursion, dynamic programming, sorting, allocators, std::pmr, perfect forwarding and a thread pool.",
       "language": "C++",
       "module_id": "programming-languages",
       "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-revision-02-0.1.7.zip",
@@ -157,14 +157,14 @@
     },
     {
       "course_id": "shepherd.cpp-levels-27-29",
-      "version": "0.1.10",
+      "version": "0.1.23",
       "title": "C++ Advanced STL, Ranges and Utilities — Levels 27–29",
-      "summary": "24 lessons on the containers and library utilities that finish the standard library: vector size and capacity, iterator invalidation, the erase-remove idiom, choosing a container by complexity, map and set, std::array, ranges and views including filter, transform, take, drop, split and pipelines, then variant, optional with monadic chaining, any, string_view, span and std::expected.",
+      "summary": "25 lessons on the containers and library utilities that finish the standard library: vector size and capacity, iterator invalidation, the erase-remove idiom, choosing a container by complexity, map and set, std::array, ranges and views including filter, transform, take, drop, split and pipelines, then variant, optional with monadic chaining, any, string_view, span, std::expected, and std::pmr pool resources with pool_options.",
       "language": "C++",
       "module_id": "programming-languages",
-      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-27-29-0.1.10.zip",
-      "sha256": "68ac7453026ed2bab2bf000443578bf625bf81b7e0973b0268cb326cecf2cebe",
-      "size_bytes": 23873,
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-27-29-0.1.23.zip",
+      "sha256": "76e555fae8f4d3a52c9b94c218c7d4eee7dcaefa72c0e3b952459c900080aa79",
+      "size_bytes": 25834,
       "requires_toolchains": [
         "cpp-llvm-mingw"
       ]
@@ -271,7 +271,7 @@
       "course_id": "shepherd.cpp-levels-51-53",
       "version": "0.1.18",
       "title": "C++ Professional Practice, Expert Techniques and Coroutines — Levels 51–53",
-      "summary": "",
+      "summary": "24 lessons on the work that separates a programmer who can write C++ from one a team depends on. Level 51 is professional practice: a history a reviewer can read, a CI pipeline that gates rather than decorates, warnings as errors, sanitizers and static analysis. Level 52 is expert technique: pimpl and ABI stability, argument-dependent lookup, hidden friends and customization points, pointer provenance, expression templates, and a small executor. Level 53 is coroutines from the frame outwards: a promise_type written by hand, co_yield, co_return, custom awaitables, counting and removing allocations, lazy pipelines and cancellation.",
       "language": "C++",
       "module_id": "programming-languages",
       "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-51-53-0.1.18.zip",

@@ -182,9 +182,7 @@
       "requires_toolchains": [
         "cpp-llvm-mingw"
       ]
-    }
-  ]
-},
+    },
     {
       "course_id": "shepherd.cpp-levels-33-35",
       "version": "0.1.12",
@@ -197,3 +195,5 @@
       "size_bytes": 213200,
       "requires_toolchains": ["cpp-llvm-mingw"]
     }
+  ]
+}

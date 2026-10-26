@@ -294,6 +294,17 @@
       "requires_toolchains": [
         "cpp-llvm-mingw"
       ]
+    },
+    {
+      "course_id": "shepherd.cpp-projects-02",
+      "version": "0.1.0",
+      "title": "C++ Projects — Build Them End to End",
+      "summary": "Twelve lessons, six projects, each built from nothing and run. A vector on raw memory: three pointers, placement new, growth counted move by move, and the strong guarantee kept when a copy throws. A string that owns its bytes with all five special members, and the copy-on-write design that was abandoned and why. unique_ptr written by hand as a move-only type, and shared_ptr with a real control block, atomic counts and weak references. An HTTP server answering three requests over one loopback connection, with a parser that refuses malformed input and names the rule it broke. A log analyser reading 20,000 lines in one pass with no per-line allocation, and top-N with a min-heap. A pipeline of stages with bounded queues, its backpressure measured: 94,841 refusals and 5,000 stage activations become 7,488 and 625 with batching. Every number in the prose was printed by the card beside it; every card ran on Linux and under wine.",
+      "language": "C++",
+      "module_id": "programming-languages",
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-projects-02-0.1.0.zip",
+      "sha256": "52892c95bf61aa898837e3d9f68e0cb4162ceefccda7c869cf9459cb00b4fff3",
+      "size_bytes": 242875
     }
   ]
 }

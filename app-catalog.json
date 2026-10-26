@@ -227,14 +227,14 @@
     },
     {
       "course_id": "shepherd.cpp-levels-42-44",
-      "version": "0.1.15",
+      "version": "0.1.26",
       "title": "C++ Games, Embedded Systems and Operating Systems — Levels 42-44",
-      "summary": "Eight lessons on games, eight on embedded C++ and eight on operating systems: fixed-timestep loops, input queues, physics, box collision and response, entities and components; registers, interrupts, deadlines, fixed point, memory maps, schedulers, ring buffers and pools; and system calls, processes, page tables, IPC, files and kernel space. Every card you can run, runs; what needs a window, a chip or kernel privilege is text beside a model that prints the same numbers.",
+      "summary": "25 lessons on three levels that take C++ out of the ordinary program: games (the loop, input, physics, collision, entities and components), embedded C++ (registers, interrupts, fixed point, memory maps, schedulers and pools) and operating systems (calls, processes, page tables, IPC and kernel space). Version 0.1.26 adds SDL, SFML, OpenGL, Vulkan, DirectX and Unreal compared by how much of the frame each one owns.",
       "language": "C++",
       "module_id": "programming-languages",
-      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-42-44-0.1.15.zip",
-      "sha256": "c03a5ba0513fedd39ec02632afcef7b1074c14108a90f87d50d9034eb88561eb",
-      "size_bytes": 277501,
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-42-44-0.1.26.zip",
+      "sha256": "706ef5bd3410a1a99e10d4a23b880eb0adf2d1fc8db487122edc93291aa2bf1d",
+      "size_bytes": 370047,
       "requires_toolchains": [
         "cpp-llvm-mingw"
       ]

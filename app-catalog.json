@@ -297,14 +297,14 @@
     },
     {
       "course_id": "shepherd.cpp-projects-02",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "title": "C++ Projects — Build Them End to End",
       "summary": "12 lessons, six projects, every one built from nothing and run: a vector on raw memory with three pointers, placement new, growth counted move by move, and the strong guarantee kept when a copy throws; a string that owns its bytes with all five special members, and copy-on-write with the defect that ended it; unique_ptr written by hand as a move-only type, and shared_ptr with a real control block, atomic counts and weak references; an HTTP server answering three requests over one loopback connection, its parser refusing malformed input and naming the rule it broke; a log analyser reading 20,000 lines in one pass with no per-line allocation, and top-N with a min-heap; and a pipeline of stages with bounded queues, its backpressure measured — 94,841 refusals and 5,000 stage activations become 7,488 and 625 with batching. Every number in the prose was printed by the card beside it.",
       "language": "C++",
       "module_id": "programming-languages",
-      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-projects-02-0.1.1.zip",
-      "sha256": "08904b440e93f6dee7a5a73ee1e0ca3725c9b3724deb5df581deb21aa0904fc0",
-      "size_bytes": 242872
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-projects-02-0.1.2.zip",
+      "sha256": "c5274d714b1cab389d8cf88a4b089a4903c29917f6e4c230a0c2635d19094159",
+      "size_bytes": 243193
     }
   ]
 }

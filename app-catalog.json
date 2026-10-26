@@ -73,14 +73,14 @@
     },
     {
       "course_id": "shepherd.cpp-levels-16-18",
-      "version": "0.1.21",
+      "version": "0.1.22",
       "title": "C++ Algorithms and Concurrency — Levels 16–18",
       "summary": "26 lessons on data structures, concurrency and performance: measuring cost by counting, a linked list by hand and the doubly linked list that walks both ways, stacks, queues, binary search, a sort written by hand, how a hash table finds in one step, a binary tree, and choosing a structure; then threads and data races, lock_guard and the shape of a scope, deadlock and lock ordering, atomics, async and future, condition variables, when not to use threads, recursive_mutex, packaged_task; then performance by measurement — cache locality, the cost of an allocation, needless copies, algorithmic cost before micro-optimisation, profiling, what the optimiser may do, and a checklist.",
       "language": "C++",
       "module_id": "programming-languages",
-      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-16-18-0.1.21.zip",
-      "sha256": "d6c407c0012ed63b1d1ffb5a2d29ae7bc9f028447f47e7530c2123278b1f3d13",
-      "size_bytes": 27982,
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-16-18-0.1.22.zip",
+      "sha256": "5e0e658d3fbbed072dea0e8412bcd87aa066d3db7bad6f11e1a5a96a480fa1c9",
+      "size_bytes": 28375,
       "requires_toolchains": [
         "cpp-llvm-mingw"
       ]

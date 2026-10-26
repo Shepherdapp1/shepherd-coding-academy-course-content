@@ -197,7 +197,7 @@
         "cpp-llvm-mingw"
       ]
     },
-          {
+             {
       "course_id": "shepherd.cpp-levels-39-41",
       "version": "0.1.25",
       "title": "C++ Networking, Databases and GUIs — Levels 39–41",
@@ -208,9 +208,9 @@
       "sha256": "eb34eed430a1a1a71be38dedb7349c16242fbdffb2d4556dface96d3247a4f2f",
       "size_bytes": 287710,
       "requires_toolchains": [
-        "cpp-llvm-minggw"
+        "cpp-llvm-mingw"
       ]
-    },
+    }
     {
       "course_id": "shepherd.cpp-levels-39-41",
       "version": "0.1.14",

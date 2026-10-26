@@ -241,14 +241,14 @@
     },
     {
       "course_id": "shepherd.cpp-levels-45-47",
-      "version": "0.1.27",
+      "version": "0.1.29",
       "title": "C++ Linux, Windows and Security — Levels 45-47",
       "summary": "25 lessons on the two systems C++ is mostly written for, and on making the result hard to break: eight on Linux — file descriptors, fork's two returns, exec, pipes as bytes rather than messages, signals and the short list a handler may do, mmap, a file in your address space, choosing the unit of isolation, and a shell in forty lines; eight on Windows — handles as indices, reference counts and inheritance, the registry, services, Winsock, UTF-16 inside and UTF-8 outside, COM as a vtable with a reference count, and an abstraction that names its leaks; and nine on security — threat arithmetic, length as the vulnerability, integer overflow, secrets that leak through copies, integrity rather than secrecy, timing, seeding, hardening, and the four rules of secure memory. Every mechanism runs as portable C++; the POSIX and Win32 calls it stands for are shown beside it.",
       "language": "C++",
       "module_id": "programming-languages",
-      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-45-47-0.1.27.zip",
-      "sha256": "ae4dd5cea6473e614cf8af48b704b7802f2202af93d11ff5b50b061aae00fe43",
-      "size_bytes": 297480,
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-45-47-0.1.29.zip",
+      "sha256": "a27d4b2cadb7254b289fe3af2c64fa8e1bbf78b70830a444e70837adb5c2cfb5",
+      "size_bytes": 297557,
       "requires_toolchains": [
         "cpp-llvm-mingw"
       ]

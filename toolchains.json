@@ -14,6 +14,20 @@
       },
       "license": "LLVM Apache-2.0 WITH LLVM-exception; CMake BSD-3-Clause; Ninja Apache-2.0",
       "release_tag": "toolchains-1"
+    },
+    {
+      "pack_id": "html-runtime",
+      "version": "0.1.0",
+      "display_name": "HTML runtime (candidate)",
+      "platforms": {
+        "windows-x64": {
+          "url": "https://github.com/Shepherdapp1/shepherd-coding-academy-releases/releases/download/toolchains-1/html-runtime-0.1.0-windows-x64-candidate.zip",
+          "sha256": "c93ff5e791c346b3c5ec743d4fdb3538748ebba8443b256532f08ff242f1e393",
+          "size_bytes": 95280130
+        }
+      },
+      "license": "Candidate only; license review pending.",
+      "release_tag": "toolchains-1"
     }
   ]
 }

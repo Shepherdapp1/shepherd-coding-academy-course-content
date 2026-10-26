@@ -197,18 +197,18 @@
         "cpp-llvm-mingw"
       ]
     },
-    {
-      "course_id": "shepherd.cpp-levels-36-38",
-      "version": "0.1.13",
-      "title": "C++ Testing, Performance and Threads — Levels 36–38",
-      "summary": "24 lessons on proving a program works and making it fast: what a test is, unit, integration and system tests, test doubles that replace the clock and the disk, what a test framework does behind its macros, fixtures and fresh state, table-driven boundary tests and how to make code testable at all, then performance engineering by measurement rather than guesswork, optimisation levels, counting calls and counting work, reading a profiler, counting allocations, cache lines and traversal order, data layout, branch prediction, vectorisation and false sharing, and finally threads: the shared-memory rule, locks and the size of a critical section, thread pools and work queues, condition variables, atomics and memory order, lock-free progress guarantees, parallel algorithms and the limits of scaling.",
+          {
+      "course_id": "shepherd.cpp-levels-39-41",
+      "version": "0.1.25",
+      "title": "C++ Networking, Databases and GUIs — Levels 39–41",
+      "summary": "25 lessons on taking a program outside its own process: sockets and TCP, UDP and what a stream promises, HTTP, database access and injection, transactions and indexes, and GUI development from the event loop to model and view. Version 0.1.25 adds Qt, GTK and MFC compared side by side, with how a click reaches your code in each.",
       "language": "C++",
       "module_id": "programming-languages",
-      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-36-38-0.1.13.zip",
-      "sha256": "e85d45a5e95247fc7d0541602f9bb30fc75827e6572b564e6e53928c0b127acd",
-      "size_bytes": 198719,
+      "package_url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-course-content/main/shepherd.cpp-levels-39-41-0.1.25.zip",
+      "sha256": "eb34eed430a1a1a71be38dedb7349c16242fbdffb2d4556dface96d3247a4f2f",
+      "size_bytes": 287710,
       "requires_toolchains": [
-        "cpp-llvm-mingw"
+        "cpp-llvm-minggw"
       ]
     },
     {
